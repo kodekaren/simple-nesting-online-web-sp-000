@@ -80,12 +80,14 @@ def adding_matz
 programmer_hash[:yukihiro_matsumoto] = {}
 puts programmer_hash
 end
+
 def keys
   yukihiro_matsumoto = {
     :known_for =>"",
      :languages => ""
    }
 end
+
 def changing_alan
 	programmer_hash =
  		{
